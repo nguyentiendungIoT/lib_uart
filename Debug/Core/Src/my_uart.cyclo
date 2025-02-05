@@ -1,0 +1,7 @@
+../Core/Src/my_uart.c:15:6:UART_SendByte	1
+../Core/Src/my_uart.c:25:6:UART_SendArray	1
+../Core/Src/my_uart.c:35:6:UART_SendString	1
+../Core/Src/my_uart.c:46:6:UART_EnableTX	1
+../Core/Src/my_uart.c:57:6:UART_DisableTX	1
+../Core/Src/my_uart.c:68:6:UART_EnableRX	1
+../Core/Src/my_uart.c:78:6:UART_DisableRX	1
